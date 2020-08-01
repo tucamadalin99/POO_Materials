@@ -2,7 +2,8 @@
 Subiectele date in prima sesiune din 2019 + restantele.
 
 ### Contents:
-- Obiecte
+- Clase
+- Clase abstracte
 - Accesori(get/set)
 - Metode
 - Supraincarcari operatori
